@@ -1,2 +1,2 @@
 # nexter-landing-page
-A page based on ONLY HTML &amp; CSS
+An responsive page based on ONLY HTML &amp; CSS
